@@ -3,181 +3,254 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Resetsix's Github Star 导航</title>
+  <title>Resetsix Star 导航</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <style>
-    .container {
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 1800px;
-      padding-left: 20px;
-      padding-right: 20px;
-      overflow-x: hidden;
+    /* 其他样式 */
+    
+    body {
+      background-image: url('https://tuapi.eees.cc/api.php?category=dongman&type=302');
+      background-size: 100% 100%;
+      background-position: center;
+      background-attachment: fixed;
     }
+
     .repo-card {
-      flex-basis: calc(25% - 1rem);
-      min-width: 300px;
-      max-width: 350px;
+      @apply flex-grow flex-shrink-0 w-full sm:w-1/2 md:w-1/3 lg:w-1/3 xl:w-1/4 2xl:w-1/5 p-4; 
     }
-    #sidebar {
-      position: fixed;
-      top: 80px;
-      left: 20px;
-      bottom: 0;
-      overflow-y: auto;
-      width: 200px;
+
+    .repo-card .px-6.pt-4.pb-2 {
+      display: flex; /* 将父元素改为 flex 布局 */
+      flex-wrap: wrap; /* 允许标签换行 */
     }
-    @media (max-width: 1024px) {
+    
+    /* 标签容器样式 */
+    .topics-container {
+      display: -webkit-box; /* 启用 WebKit 特性 */
+      -webkit-box-orient: vertical; /* 设置垂直方向 */
+      -webkit-line-clamp: 3; /* 限制显示三行 */
+      overflow: hidden; /* 隐藏溢出内容 */
+      position: relative; /* 使伪元素相对于容器定位 */
+      max-height: 6em; /* 三行高度，根据实际情况调整 */
+      line-height: 2em; /* 行高，根据实际情况调整 */
+      text-overflow: ellipsis; /*  在截断处显示省略号 */
+    }
+
+    /* 伪元素样式 */
+    .topics-container::after { 
+      content: "..."; 
+      position: absolute; /* 绝对定位 */
+      bottom: 0; /* 与容器底部对齐 */
+      right: 0; /* 与容器右侧对齐 */
+      padding-left: 0.25rem; /* 添加左边距 */
+      background-color: white; /* 背景色，与容器背景色相同 */
+    }
+
+    .topic {
+      @apply inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2;
+      flex: 0 1 auto;
+      box-sizing: border-box;
+      line-height: 2; /* 设置您想要的行高 */ 
+    }
+
+    .repo-card {
+      flex-basis: calc(33.333% - 2rem);
+      height: 66vh;
+      overflow: hidden;
+    }
+
+    @media (max-width: 768px) {
       .repo-card {
-        flex-basis: calc(50% - 1rem);
+        flex-basis: calc(50% - 2rem);
       }
     }
-    @media (max-width: 640px) {
+
+    @media (max-width: 480px) {
       .repo-card {
-        flex-basis: calc(100% - 1rem);
-      }
-      .container{
-        padding: 0;
-      }
-      #main-content {
-        margin-left: 0 !important;
-        padding-left: 8px;
-      }
-      #categories-container{
-        padding-top:76px;
-      }
-      .sticky-header h1 {
-        display: none;
-      }
-      #search {
-        width: 100%;
+        flex-basis: 100%;
       }
     }
-    .highlight {
-      background-color: yellow;
+
+    .repo-card .text-gray-700 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
-    .inline-block {
-      position: absolute;
-      bottom: 0;
-      margin-bottom: 15px;
-    }
-    .sticky-header {
-      position: fixed;
-      top: 0;
-      left: 0;
-      right: 0;
-      z-index: 10;
-      background-color: white;
-    }
-    #main-content {
-      margin-left: 200px;
-    }
+
     #back-to-top {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      background-color: #1a202c;
-      color: white;
-      padding: 10px 15px;
-      border-radius: 50%;
       display: none;
+      padding: 10px 15px;
+      background-color: tan;
+      color: white;
+      border-radius: 5px;
       cursor: pointer;
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-      transition: opacity 0.3s;
     }
-    #back-to-top:hover {
-      background-color: #2d3748;
+    
+    #sidebar {
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      height: 100%;
+      overflow-y: auto; 
+      background-color: tan; 
+      padding: 20px;
+      width: 167px;
+   } 
+
+    #main-content {
+      margin-left: 167px;
+      padding-top: 0;
+   }
+    .header { 
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 4px 12px; 
+      background-color: white; 
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 100; 
+      background-color: tan;
+      padding: 4px 12px;
+    }
+
+    .header h1 {
+      margin: 0; 
+    }
+
+    .search-container {
+      margin-left: auto;
+    }
+
+    #search {
+      width: 300px; 
+    }
+
+    .repo-card .repo-stats {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
   </style>
 </head>
 <body class="bg-gray-100">
-  <div class="sticky-header flex justify-between items-center px-4 py-2 bg-white shadow-md">
+  <div class="header flex justify-between items-center px-4 py-2 bg-white shadow-md">
     <h1 class="text-2xl font-bold">
-      <a href="/" class="hidden md:block">Github Star 导航</a>
+      <a href="/" class="text-blue-500 hover:underline">Resetsix github Star 导航</a>
     </h1>
-    <input id="search" type="text" placeholder="Search repositories..." class="p-2 border rounded md:w-1/3 w-full mx-auto">
+    <input id="search" type="text" placeholder="Search repositories..." class="p-2 border rounded w-1/3 mx-auto">
   </div>
-  <div class="container mx-auto p-4 py-16">
-    <div class="block md:flex">
-      <div id="sidebar" class="hidden md:block">
+  <div class="container mx-auto p-4">
+    <div class="flex">
+      <div id="sidebar">
         <h2 class="text-xl font-bold mb-4">语言分类</h2>
-        <ul id="sidebar-links"></ul>
+        <ul id="sidebarLinks">
+          <!-- 语言分类链接将在这里动态生成 -->
+        </ul>
       </div>
       <div id="main-content">
-        <div id="categories-container"></div>
+        <div id="categories-container">
+          <!-- 仓库卡片将在这里动态生成 -->
+        </div>
       </div>
     </div>
   </div>
   <button id="back-to-top">↑</button>
   <script>
-    async function fetchData() {
-      const response = await fetch('https://gcore.jsdelivr.net/gh/resetsix/starts/data.json'); // 修改为自己的仓库地址
-      return response.json();
-    }
-
-    function generateHTML(data) {
-      const repoCardsHtml = (repos) => {
-        return repos.map((repo) => {
-          const truncatedDescription = repo.description && repo.description.length > 200 ? repo.description.slice(0, 200) + '...' : repo.description;
-          return `
-            <div class="repo-card max-w-sm rounded-2xl overflow-hidden shadow-lg m-4 bg-white transition-transform transform hover:scale-105">
-              <div class="h-48 overflow-hidden flex items-center justify-center mt-4 rounded-t-2xl">
-                <img class="object-contain h-full w-full rounded-t-2xl" src="${repo.owner.avatar_url}" alt="${repo.owner.login}">
-              </div>
-              <div class="px-6 py-4">
-                <div class="font-bold text-xl mb-2">
-                  <a href="${repo.html_url}" class="text-blue-500">${repo.full_name}</a>
-                </div>
-                <p class="text-gray-700 text-base">${truncatedDescription}</p>
-              </div>
-              <div class="px-6 pt-4 pb-2">
-                <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: ${repo.stargazers_count}</span>
-              </div>
-            </div>`;
-        }).join('');
-      };
-
-      const categoriesHtml = Object.keys(data).map(language => `
-        <div id="${language}" class="mb-8 category">
-          <h2 class="text-2xl font-bold mb-4">${language} Repositories</h2>
-          <div class="flex flex-wrap justify-center">
-            ${repoCardsHtml(data[language])}
-          </div>
-        </div>`).join('');
-
-      const sidebarLinks = Object.keys(data).map(language => `
-        <li class="mb-2"><a href="#${language}" class="text-blue-500 hover:underline">${language}</a></li>`).join('');
-
-      document.getElementById('sidebar-links').innerHTML = sidebarLinks;
-      document.getElementById('categories-container').innerHTML = categoriesHtml;
-    }
-
-    document.addEventListener('DOMContentLoaded', async function() {
+    document.addEventListener('DOMContentLoaded', function() {
       const searchInput = document.getElementById('search');
       const categoriesContainer = document.getElementById('categories-container');
+      const sidebarLinks = document.getElementById('sidebarLinks');
       const backToTopButton = document.getElementById('back-to-top');
-      const data = await fetchData();
-      generateHTML(data);
 
-      function repoCardsHtml(repos) {
-        return repos.map(function(repo) {
-          const truncatedDescription = repo.description && repo.description.length > 200 ? repo.description.slice(0, 200) + '...' : repo.description;
-          return `
-            <div class="repo-card max-w-sm rounded-2xl overflow-hidden shadow-lg m-4 bg-white transition-transform transform hover:scale-105">
-              <div class="h-48 overflow-hidden flex items-center justify-center mt-4 rounded-t-2xl">
-                <img class="object-contain h-full w-full rounded-t-2xl" src="${repo.owner.avatar_url}" alt="${repo.owner.login}">
+      fetch('https://gcore.jsdelivr.net/gh/resetsix/starts/data.json') 
+        .then(response => response.json())
+        .then(data => {
+          generateContent(data);
+          searchInput.addEventListener('input', function() {
+            const query = this.value.trim().toLowerCase();
+            searchAndDisplay(query, data);
+          });
+        });
+
+      function generateContent(data) {
+        let categoriesHtml = '';
+        let sidebarLinksHtml = '';
+
+        for (const language in data) {
+          categoriesHtml += `
+            <div id="${language}" class="mb-8 category">
+              <h2 class="text-2xl font-bold mb-4">${language} Repositories</h2>
+              <div class="flex flex-wrap justify-center">
+                ${generateRepoCards(data[language])}
               </div>
-              <div class="px-6 py-4">
-                <div class="font-bold text-xl mb-2">
-                  <a href="${repo.html_url}" class="text-blue-500">${repo.full_name}</a>
-                </div>
-                <p class="text-gray-700 text-base">${truncatedDescription}</p>
+            </div>
+          `;
+          sidebarLinksHtml += `
+            <li class="mb-2"><a href="#${language}" class="text-blue-500 hover:underline">${language}</a></li>
+          `;
+        }
+
+        categoriesContainer.innerHTML = categoriesHtml;
+        sidebarLinks.innerHTML = sidebarLinksHtml;
+      }
+
+      function generateRepoCards(repos) {
+        return repos.map(repo => `
+          <div class="repo-card max-w-sm rounded-2xl overflow-hidden shadow-lg m-4 bg-white transition-transform transform hover:scale-105">
+            <div class="h-48 overflow-hidden flex items-center justify-center mt-4 rounded-t-2xl">
+              <img class="object-contain h-full w-full rounded-t-2xl" src="${repo.owner.avatar_url}" alt="${repo.owner.login}">
+            </div>
+            <div class="px-6 py-4">
+              <div class="font-bold text-xl mb-2">
+                <a href="${repo.html_url}" class="text-blue-500">${repo.full_name}</a>
               </div>
-              <div class="px-6 pt-4 pb-2">
-                <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: ${repo.stargazers_count}</span>
+              <p class="text-gray-700 text-base">${truncateDescription(repo.description)}</p>
+            </div>
+            <div class="px-6 pt-4 pb-2 topics-container">
+              ${repo.topics.map(topic => `<span class="topic inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#${topic}</span>`).join('')}
+            </div>
+            <div class="px-6 pt-4 pb-2">
+              <span class="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Stars: ${repo.stargazers_count}</span>
+              <span class="inline-block bg-green-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Watchers: ${repo.watchers_count}</span>
+            </div>
+          </div>
+        `).join('');
+      }
+
+      function truncateDescription(description) {
+        return description && description.length > 200 ? description.slice(0, 200) + '...' : description;
+      }
+
+      function searchAndDisplay(query, data) {
+        if (query) {
+          const matchedRepos = [];
+          for (const language in data) {
+            matchedRepos.push(...data[language].filter(repo => {
+              return repo.full_name.toLowerCase().includes(query) ||
+                     (repo.description && repo.description.toLowerCase().includes(query)) ||
+                     repo.topics.some(topic => topic.toLowerCase().includes(query));
+            }));
+          }
+          categoriesContainer.innerHTML = `
+            <div class="mb-8">
+              <h2 class="text-2xl font-bold mb-4">Search Results</h2>
+              <div class="flex flex-wrap justify-center">
+                ${generateRepoCards(matchedRepos)}
               </div>
-            </div>`;
-        }).join('');
+            </div>
+          `;
+        } else {
+          generateContent(data);
+        }
       }
 
       window.addEventListener('scroll', function() {
@@ -190,37 +263,6 @@
 
       backToTopButton.addEventListener('click', function() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
-      });
-
-      function searchRepositories(query) {
-        const normalizedQuery = query.toLowerCase();
-        return Object.values(data).flat().filter(repo => {
-          return repo.full_name.toLowerCase().includes(normalizedQuery) ||
-                 (repo.description && repo.description.toLowerCase().includes(normalizedQuery)) ||
-                 repo.topics.some(topic => topic.toLowerCase().includes(normalizedQuery));
-        });
-      }
-
-      searchInput.addEventListener('input', function() {
-        const query = this.value.trim();
-        if (query) {
-          const matchedRepos = searchRepositories(query);
-          const highlightedHtml = repoCardsHtml(matchedRepos).replace(new RegExp(query, 'gi'), function(match) {
-            return '<span class="highlight">' + match + '</span>';
-          });
-
-          categoriesContainer.innerHTML = '<div class="mb-8"><h2 class="text-2xl font-bold mb-4">Search Results</h2><div class="flex flex-wrap justify-center">' + highlightedHtml + '</div></div>';
-        } else {
-          const categoriesHtml = Object.keys(data).map(function(language) {
-            return '<div id="' + language + '" class="mb-8 category">' +
-              '<h2 class="text-2xl font-bold mb-4">' + language + ' Repositories</h2>' +
-              '<div class="flex flex-wrap justify-center">' +
-                repoCardsHtml(data[language]) +
-              '</div>' +
-            '</div>';
-          }).join('');
-          categoriesContainer.innerHTML = categoriesHtml;
-        }
       });
     });
   </script>
