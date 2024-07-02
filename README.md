@@ -2,7 +2,7 @@
 
 # Some Stars
 
-⭐ <a href="https://resetsix.github.io/starts/"  target="_blank">resetsix</a>的star列表，每周自动更新 ⭐
+⭐ <a href="https://resetsix.github.io/stars/"  target="_blank">resetsix</a>的star列表，每周自动更新 ⭐
 
 </div><br>
 
