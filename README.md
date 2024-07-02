@@ -60,8 +60,6 @@
 
 *   [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 
-*   [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
-
 *   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
 
 *   [younghz/Markdown](https://github.com/younghz/Markdown) - Markdown 基本语法。
@@ -147,6 +145,8 @@
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 *   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
+
+*   [wangqiankun0201/do-loving](https://github.com/wangqiankun0201/do-loving) - 在一棵樱花树下有一只猫，一只橘黄色的痴情的猫.
 
 ## Vue
 
