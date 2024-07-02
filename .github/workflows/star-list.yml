@@ -1,0 +1,41 @@
+name: Update some list
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
+    - cron: '0 16 * * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: some generator
+        uses: simonecorsi/mawesome@v2.2.0
+        with:
+          api-token: ${{ secrets.PERSONAL_TOKEN }}
+          github-email: ${{ secrets.USER_EMAIL }}
+          template-path: "template/README.ejs"
+          github-name: ${{ github.repository_owner }}
+
+      - name: Install Wrangler CLI
+        run: npm install -g wrangler
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./  # 发布根目录内容
+    
+      # - name: Publish to Cloudflare Workers
+      #   env:
+      #     CLOUDFLARE_API_TOKEN : ${{ secrets.CLOUDFLARE_API_TOKEN  }}
+      #     CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      #   run:
+      #     wrangler deploy

@@ -1,0 +1,5 @@
+name = "star"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2024-06-17"
+main = "worker.js"
