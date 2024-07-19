@@ -10,14 +10,15 @@
 
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
+*   [C++](#c)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Python](#python)
-*   [C](#c)
+*   [C](#c-1)
 *   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Java](#java)
 *   [Svelte](#svelte)
 *   [Stylus](#stylus)
@@ -29,6 +30,8 @@
 *   [CSS](#css)
 
 ## miscellaneous
+
+*   [DustinWin/clash\_singbox-tutorials](https://github.com/DustinWin/clash_singbox-tutorials) - Clash 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
 
 *   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
 
@@ -60,11 +63,11 @@
 
 *   [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
 
-*   [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
-
-*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
-
 ## JavaScript
+
+*   [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+
+*   [Richienb/node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin) - Polyfill Node.js core modules in Webpack.
 
 *   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 
@@ -106,7 +109,9 @@
 
 *   [changcheng1/mini\_React](https://github.com/changcheng1/mini_React) - 从0实现一个简易React18，包含逐行注释
 
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+## C++
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 
 ## Go
 
@@ -199,8 +204,6 @@
 *   [FW27623/LiTiaotiao-Custom-Rules](https://github.com/FW27623/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则（增加在线规则页面）
 
 *   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## C
 
