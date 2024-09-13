@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
@@ -15,7 +16,6 @@
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [C++](#c)
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -30,6 +30,38 @@
 *   [Dart](#dart)
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
+
+## miscellaneous
+
+*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+
+*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) -
+
+*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
+
+*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 
 ## JavaScript
 
@@ -141,36 +173,6 @@
 
 *   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 
-## miscellaneous
-
-*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) -
-
-*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
-
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
-
-*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
-
 ## Go
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
@@ -223,11 +225,9 @@
 
 *   [FW27623/LiTiaotiao-Custom-Rules](https://github.com/FW27623/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则（增加在线规则页面）
 
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
-
 ## C
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
 ## Rust
 
