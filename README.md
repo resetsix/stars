@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -21,15 +22,19 @@
 *   [Vue](#vue)
 *   [C](#c-1)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c-2)
 *   [Java](#java)
 *   [Svelte](#svelte)
-*   [Stylus](#stylus)
 *   [Batchfile](#batchfile)
 *   [Dart](#dart)
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
+
+## Jupyter Notebook
+
+*   [TD21forever/RSS-Master](https://github.com/TD21forever/RSS-Master) - 针对RSS源的自定义过滤、筛选，使用AI总结、概括、打分等
+
+*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 
 ## TypeScript
 
@@ -123,6 +128,8 @@
 
 *   [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 
+*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
+
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
 *   [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
@@ -157,7 +164,7 @@
 
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | Shadowrocket配置 | 会员解锁
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告规则 | QuantumultX去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置
 
 *   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
 
@@ -176,8 +183,6 @@
 *   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
 
 *   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ## Shell
 
@@ -237,10 +242,6 @@
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
-## Jupyter Notebook
-
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-
 ## C\#
 
 *   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
@@ -254,10 +255,6 @@
 ## Svelte
 
 *   [tive6/msw-tools](https://github.com/tive6/msw-tools) - Mock Service Worker Tools (MSW-Tools) is a data Mock tool built based on MSW.JS and Svelte. It is used for data linkage between front and back end interfaces, facilitating developers to perform functional tests in different data and scenarios.
-
-## Stylus
-
-*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
 
 ## Batchfile
 
