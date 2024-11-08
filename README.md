@@ -8,9 +8,10 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -30,49 +31,17 @@
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
 
-## miscellaneous
+## Astro
 
-*   [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi) - 属于大学生群体的真·青年大学习
+*   [ladit/astro-blog-zozo](https://github.com/ladit/astro-blog-zozo) - An opinionated and neat blog template built with Astro.
 
-*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
-
-*   [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) -
-
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
-
-*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 不完全指北
-
-*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
-
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
-
-*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-## Jupyter Notebook
-
-*   [TD21forever/RSS-Master](https://github.com/TD21forever/RSS-Master) - 针对RSS源的自定义过滤、筛选，使用AI总结、概括、打分等
-
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## TypeScript
+
+*   [imlinhanchao/vsc-markdown-image](https://github.com/imlinhanchao/vsc-markdown-image) - Easy to insert a image to markdown
+
+*   [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) -
 
 *   [heapup-tech/bitcoin-ninja](https://github.com/heapup-tech/bitcoin-ninja) - The Best Bitcoin Development Tutorial
 
@@ -98,8 +67,6 @@
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
 *   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 
 *   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -108,7 +75,45 @@
 
 *   [iconfont-cli/react-iconfont-cli](https://github.com/iconfont-cli/react-iconfont-cli) - 转换iconfont图标为React标准组件，不依赖字体，支持多色彩
 
-*   [prijs/pri](https://github.com/prijs/pri) - Framework for React applications and components.
+## miscellaneous
+
+*   [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi) - 属于大学生群体的真·青年大学习
+
+*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
+
+*   [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) -
+
+*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+
+*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 不完全指北
+
+*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
+
+*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
+
+## Jupyter Notebook
+
+*   [TD21forever/RSS-Master](https://github.com/TD21forever/RSS-Master) - 针对RSS源的自定义过滤、筛选，使用AI总结、概括、打分等
+
+*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 
 ## Python
 
@@ -181,8 +186,6 @@
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
 ## Shell
 
