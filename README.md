@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Objective-C](#objective-c)
@@ -26,6 +27,10 @@
 *   [C](#c-2)
 *   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Java
+
+*   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 
 ## Swift
 
@@ -164,8 +169,6 @@
 *   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 
 *   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 
 ## miscellaneous
 
