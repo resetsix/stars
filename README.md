@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
+*   [Java](#java)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Ruby](#ruby)
 *   [Vue](#vue)
@@ -26,13 +26,12 @@
 *   [C++](#c-1)
 *   [C](#c-2)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
-
-## Java
-
-*   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 
 ## Swift
+
+*   [Mijick/Popups](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
+
+*   [devxoul/Toaster](https://github.com/devxoul/Toaster) - 🍞 Toast for Swift
 
 *   [uias/Tabman](https://github.com/uias/Tabman) - ™️ A powerful paging view controller with interactive indicator bars
 
@@ -58,7 +57,7 @@
 
 *   [exyte/Chat](https://github.com/exyte/Chat) - A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker
 
-*   [mohakapt/Stringz](https://github.com/mohakapt/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
+*   [heysem-useinsider/Stringz](https://github.com/heysem-useinsider/Stringz) - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
 
 *   [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
 
@@ -88,6 +87,8 @@
 
 ## JavaScript
 
+*   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+
 *   [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary) - 考研词汇词频排序数据
 
 *   [chengazhen/cursor-patch](https://github.com/chengazhen/cursor-patch) -
@@ -109,6 +110,36 @@
 *   [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 
 *   [qier222/proxy-provider-converter](https://github.com/qier222/proxy-provider-converter) - 一个可以将 Clash 订阅转换成 Proxy Provider 和 External Group(Surge) 的工具
+
+## miscellaneous
+
+*   [d2forum/19th](https://github.com/d2forum/19th) - 第19届D2终端技术大会「热·AI」
+
+*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
+
+*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
+
+*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
+
+*   [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) -
+
+*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+
+*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+## Java
+
+*   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 
 ## Objective-C
 
@@ -170,32 +201,6 @@
 
 *   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 
-## miscellaneous
-
-*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
-
-*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
-
-*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
-
-*   [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) -
-
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
-
-*   [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频 AI 翻译扩展。
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
-
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
 ## Go
 
 *   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
@@ -216,8 +221,6 @@
 
 *   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
 ## HTML
 
 *   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
@@ -231,8 +234,6 @@
 ## C\#
 
 *   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-*   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
 
 ## Astro
 
@@ -261,7 +262,3 @@
 ## Rust
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-## Jupyter Notebook
-
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
