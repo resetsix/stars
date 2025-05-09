@@ -200,7 +200,7 @@
 
 *   [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 
-*   [intsig171/SmartCodable](https://github.com/intsig171/SmartCodable) - SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features. SmartCodable 是基于Codable实现的数据解析库。简单易用，强悍的兼容性是SmartCodable的主要特点。  表层API和功能几乎和HandyJSON一致，支持快速的迁移。
+*   [iAmMccc/SmartCodable](https://github.com/iAmMccc/SmartCodable) - SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features. SmartCodable 是基于Codable实现的数据解析库。简单易用，强悍的兼容性是SmartCodable的主要特点。  表层API和功能几乎和HandyJSON一致，支持快速的迁移。
 
 *   [exyte/FlagAndCountryCode](https://github.com/exyte/FlagAndCountryCode) - A country code and flag icon provider library for iOS apps
 
