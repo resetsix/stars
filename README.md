@@ -8,11 +8,12 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
-*   [miscellaneous](#miscellaneous)
 *   [TeX](#tex)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -29,10 +30,65 @@
 *   [C++](#c-1)
 *   [C](#c-2)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Svelte](#svelte)
 *   [Batchfile](#batchfile)
 *   [Dart](#dart)
+
+## Jupyter Notebook
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」
+
+## miscellaneous
+
+*   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
+
+*   [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release) -
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [d2forum/19th](https://github.com/d2forum/19th) - 第19届D2终端技术大会「热·AI」
+
+*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
+
+*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
+
+*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
+
+*   [bpc-clone/bpc\_firefox\_support](https://github.com/bpc-clone/bpc_firefox_support) -
+
+*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
+
+*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
+
+*   [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
+
+*   [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 
 ## Python
 
@@ -75,8 +131,6 @@
 *   [FW27623/LiTiaotiao-Custom-Rules](https://github.com/FW27623/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则（增加在线规则页面）
 
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [labmlai/annotated\_deep\_learning\_paper\_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 
 ## Swift
 
@@ -242,63 +296,13 @@
 
 *   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
 
-## miscellaneous
-
-*   [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release) -
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [d2forum/19th](https://github.com/d2forum/19th) - 第19届D2终端技术大会「热·AI」
-
-*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
-
-*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
-
-*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
-
-*   [bpc-clone/bpc\_firefox\_support](https://github.com/bpc-clone/bpc_firefox_support) -
-
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
-
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
-
-*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
-
-*   [mahavivo/english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
-
-*   [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
-
-*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
-
 ## TeX
 
 *   [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh) - 《软件设计的哲学》中文翻译 | Chinese translation of A Philosophy of Software Design
 
 ## Vue
 
-*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘）。快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；助力你成为一个没有感情的求职机器🤖。完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。宝宝不用动，妈妈全自动~求职不内耗，祝你拿到好Offer！
+*   [geekgeekrun/geekgeekrun](https://github.com/geekgeekrun/geekgeekrun) - 牛人快跑 - GeekGeekRun ，求职找工作自动化工具（For Boss直聘）。快速海投、自动开聊、已读不回提醒、职位信息抓取、不合适职位标记、僵尸职位清理；完全开源、免费！界面友好，简单易用！基于 Puppeteer、Electron 开发。让你即刻变身成为一台冇得感情的求职机器🤖，求职不内耗。宝宝不用动，妈妈全自动~祝你收获好Offer！
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
@@ -348,7 +352,7 @@
 
 *   [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
 
-*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
+*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
@@ -382,7 +386,7 @@
 
 *   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
 
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
@@ -394,7 +398,7 @@
 
 ## MDX
 
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 ## Java
 
@@ -467,10 +471,6 @@
 ## Rust
 
 *   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-## Jupyter Notebook
-
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」
 
 ## Svelte
 
