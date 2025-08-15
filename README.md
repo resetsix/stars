@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TeX](#tex)
 *   [Vue](#vue)
@@ -21,8 +21,8 @@
 *   [Go](#go)
 *   [MDX](#mdx)
 *   [Java](#java)
-*   [Ruby](#ruby)
 *   [HTML](#html)
+*   [Ruby](#ruby)
 *   [C#](#c)
 *   [Astro](#astro)
 *   [ANTLR](#antlr)
@@ -34,9 +34,57 @@
 *   [Dart](#dart)
 *   [CSS](#css)
 
+## miscellaneous
+
+*   [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本。
+
+*   [agassiz/vscode-augment](https://github.com/agassiz/vscode-augment) - 无需清理任何数据，最新免费无限续杯augment试用的插件
+
+*   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
+
+*   [J3n5en/bye](https://github.com/J3n5en/bye) -
+
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+*   [d2forum/19th](https://github.com/d2forum/19th) - 第19届D2终端技术大会「热·AI」
+
+*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
+
+*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
+
+*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
+
+*   [bpc-clone/bpc\_firefox\_support](https://github.com/bpc-clone/bpc_firefox_support) -
+
+*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+
+*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
+
+*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
+
+*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ## TypeScript
 
-*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation
+*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) - A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,and vue
 
 *   [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 
@@ -113,8 +161,6 @@
 *   [prijs/pri](https://github.com/prijs/pri) - Framework for React applications and components.
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
 ## Swift
 
@@ -228,52 +274,6 @@
 
 *   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」
 
-## miscellaneous
-
-*   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
-
-*   [J3n5en/bye](https://github.com/J3n5en/bye) -
-
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-
-*   [d2forum/19th](https://github.com/d2forum/19th) - 第19届D2终端技术大会「热·AI」
-
-*   [Vaibhavs10/open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) -
-
-*   [XiaomingX/awesome-seo-tools](https://github.com/XiaomingX/awesome-seo-tools) - Curated list of awesome SEO tools
-
-*   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
-
-*   [bpc-clone/bpc\_firefox\_support](https://github.com/bpc-clone/bpc_firefox_support) -
-
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
-
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-
-*   [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
-
-*   [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - Clash自用分流规则，涵盖常用流媒体
-
-*   [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
-
-*   [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
-
 ## Python
 
 *   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
@@ -347,8 +347,6 @@
 *   [exam-data/NETEMVocabulary](https://github.com/exam-data/NETEMVocabulary) - 考研词汇词频排序数据
 
 *   [chengazhen/cursor-patch](https://github.com/chengazhen/cursor-patch) -
-
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 
 *   [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
@@ -424,11 +422,9 @@
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 
-## Ruby
-
-*   [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-
 ## HTML
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 
 *   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
 
@@ -437,6 +433,10 @@
 *   [Ac-Wiki/Ac-Wiki](https://github.com/Ac-Wiki/Ac-Wiki) - 高等教育学社基础知识开源建设工程｜青年大学习
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+## Ruby
+
+*   [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
 ## C\#
 
