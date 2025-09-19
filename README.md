@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
@@ -24,16 +25,20 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [Ruby](#ruby)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Astro](#astro)
 *   [ANTLR](#antlr)
-*   [C++](#c-1)
 *   [C](#c-2)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Batchfile](#batchfile)
 *   [Dart](#dart)
-*   [CSS](#css)
+
+## C++
+
+*   [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+
+*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 
 ## Swift
 
@@ -407,8 +412,6 @@
 
 *   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementation for many programming languages
-
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
@@ -422,6 +425,8 @@
 ## Java
 
 *   [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
+
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for many programming languages
 
 *   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
@@ -459,10 +464,6 @@
 
 *   [melin/superior-sql-parser](https://github.com/melin/superior-sql-parser) - 基于 antlr4 的多种数据库SQL解析器，获取SQL中元数据，可用于数据平台产品中的多个场景：ddl语句提取元数据、sql 权限校验、表级血缘、sql语法校验等场景。支持spark、flink、gauss、starrocks、Oracle、MYSQL、Postgresql，sqlserver,、db2等
 
-## C++
-
-*   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
-
 ## C
 
 *   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -482,7 +483,3 @@
 ## Dart
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-## CSS
-
-*   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
