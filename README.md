@@ -171,6 +171,8 @@
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
+*   [alibaba/f2e-spec](https://github.com/alibaba/f2e-spec) - Alibaba Front-end Coding Guidelines and Relevant Tools
+
 ## Dart
 
 *   [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
@@ -179,7 +181,7 @@
 
 ## miscellaneous
 
-*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
+*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 
 *   [konsheng/Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon) - 一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，即将迎来重大更新。
 
@@ -200,8 +202,6 @@
 *   [0voice/enterprise\_job\_recommend](https://github.com/0voice/enterprise_job_recommend) - 2023年 最新整理暑假实习（含Java，前端，测试，c++，嵌入式，算法岗），base（北京，上海，广州，深圳，杭州，西安，成都，南京），每周定时更新
 
 *   [bpc-clone/bpc\_firefox\_support](https://github.com/bpc-clone/bpc_firefox_support) -
-
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
 
 *   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 
@@ -377,7 +377,7 @@
 
 *   [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
 
 *   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 免费IP离线数据库，支持IPV4+IPV6 ，国家、省、市、县、运营商
 
