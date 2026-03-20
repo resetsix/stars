@@ -9,6 +9,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Astro](#astro)
 *   [Python](#python)
 *   [PowerShell](#powershell)
 *   [Kotlin](#kotlin)
@@ -31,13 +32,14 @@
 *   [Java](#java)
 *   [Ruby](#ruby)
 *   [C#](#c-1)
-*   [Astro](#astro)
 *   [ANTLR](#antlr)
 *   [C](#c-2)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 
 ## TypeScript
+
+*   [vikiboss/blog](https://github.com/vikiboss/blog) - ✍️ 一个聚焦内容、简约现代、SEO 友好、基于 Next.js 16、React 19 和 Tailwind CSS 4 构建的现代化个人博客。
 
 *   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 
@@ -83,7 +85,7 @@
 
 *   [gly-hub/dandelion-admin](https://github.com/gly-hub/dandelion-admin) -
 
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
@@ -119,7 +121,13 @@
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+## Astro
+
+*   [dogxii/astro-doge](https://github.com/dogxii/astro-doge) - 一个简洁、加载快速的 Astro 博客主题，适合内容为主的个人技术博客，内置暗色模式、响应式布局。
+
+*   [ladit/astro-blog-zozo](https://github.com/ladit/astro-blog-zozo) - An opinionated and neat blog template built with Astro.
+
+*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## Python
 
@@ -165,7 +173,7 @@
 
 ## PowerShell
 
-*   [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - Let logi options plus do the job of keyboard and mouse only!disable logivoice、analytics、flow、sso、update、dfu、aipromptbuilder、device-recommendation
+*   [Qetesh/logi-options-plus-mini](https://github.com/Qetesh/logi-options-plus-mini) - A minimal Logi Options+ deployment preset for keyboard and mouse only, with configurable disabling of optional features like Logi Voice, Flow, Analytics, and more
 
 ## Kotlin
 
@@ -272,8 +280,6 @@
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## Shell
 
@@ -403,7 +409,7 @@
 
 ## Markdown
 
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## C++
 
@@ -413,7 +419,7 @@
 
 ## PHP
 
-*   [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+*   [easychen/opc-methodology](https://github.com/easychen/opc-methodology) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 
 *   [xiaopanglian/icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
 
@@ -470,12 +476,6 @@
 *   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 
 *   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
-
-## Astro
-
-*   [ladit/astro-blog-zozo](https://github.com/ladit/astro-blog-zozo) - An opinionated and neat blog template built with Astro.
-
-*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## ANTLR
 
