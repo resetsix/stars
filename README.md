@@ -8,13 +8,14 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
+*   [Python](#python)
+*   [Astro](#astro)
 *   [TypeScript](#typescript)
 *   [SVG](#svg)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
-*   [Astro](#astro)
 *   [PowerShell](#powershell)
 *   [Kotlin](#kotlin)
 *   [Lua](#lua)
@@ -35,6 +36,66 @@
 *   [C](#c-2)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
+
+## Dart
+
+*   [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - 科学、高效的英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
+
+## Python
+
+*   [SmartisanNaive/AI-Cleaner](https://github.com/SmartisanNaive/AI-Cleaner) - 404: AI signature not found
+
+*   [hengfengliya/Cloudflare-Mail-Forge](https://github.com/hengfengliya/Cloudflare-Mail-Forge) -
+
+*   [Dovahlore/douban-scraper](https://github.com/Dovahlore/douban-scraper) - 应对部分豆瓣部分页面新版反爬虫机制，绕开并得到电影详情页信息
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
+
+*   [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) - 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
+
+*   [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
+
+*   [yihong0618/running\_page](https://github.com/yihong0618/running_page) - Make your own running home page
+
+*   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
+
+*   [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) - Interactive User Feedback MCP
+
+*   [borrrrring/xcstrings](https://github.com/borrrrring/xcstrings) - Automatically translates Xcode 15 String Catalog (.xcstrings) files using Google Translation, Gemini Pro or DeepLX.
+
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+
+*   [TD21forever/RSS-Master](https://github.com/TD21forever/RSS-Master) - 针对RSS源的自定义过滤、筛选，使用AI总结、概括、打分等
+
+*   [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
+
+*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
+
+*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+
+*   [6drf21e/ChatTTS\_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
+
+*   [wdmpa/content-farm-list](https://github.com/wdmpa/content-farm-list) - List of content farm sites like g.penzai.com.
+
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+## Astro
+
+*   [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.
+
+*   [dogxii/astro-doge](https://github.com/dogxii/astro-doge) - 一个简洁、加载快速的 Astro 博客主题，适合内容为主的个人技术博客，内置暗色模式、响应式布局。
+
+*   [ladit/astro-blog-zozo](https://github.com/ladit/astro-blog-zozo) - An opinionated and neat blog template built with Astro.
+
+*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## TypeScript
 
@@ -122,8 +183,6 @@
 
 *   [ascoders/syntax-parser](https://github.com/ascoders/syntax-parser) - Light and fast 🚀parser! With zero dependents. - Sql Parser Demo added!
 
-*   [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML support for Monaco Editor
-
 ## SVG
 
 *   [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
@@ -182,8 +241,6 @@
 
 *   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
 
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan 多功能面板
-
 ## miscellaneous
 
 *   [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
@@ -227,60 +284,6 @@
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-
-## Python
-
-*   [hengfengliya/Cloudflare-Mail-Forge](https://github.com/hengfengliya/Cloudflare-Mail-Forge) -
-
-*   [Dovahlore/douban-scraper](https://github.com/Dovahlore/douban-scraper) - 应对部分豆瓣部分页面新版反爬虫机制，绕开并得到电影详情页信息
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [Cat-zaizai/ZaiZaiCat-Checkin](https://github.com/Cat-zaizai/ZaiZaiCat-Checkin) - 每日签到脚本(多账号),青龙脚本,签到脚本,签到列表:  🚚 顺丰速运 |  恩山论坛  |  看雪论坛  |  上海杨浦   |  华润通  |   鸿星尔克 |   WPS签到  |   什么值得买
-
-*   [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) - 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
-
-*   [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides) - "Paper2Slides: From Paper to Presentation in One Click"
-
-*   [yihong0618/running\_page](https://github.com/yihong0618/running_page) - Make your own running home page
-
-*   [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
-
-*   [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) - Interactive User Feedback MCP
-
-*   [borrrrring/xcstrings](https://github.com/borrrrring/xcstrings) - Automatically translates Xcode 15 String Catalog (.xcstrings) files using Google Translation, Gemini Pro or DeepLX.
-
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
-
-*   [TD21forever/RSS-Master](https://github.com/TD21forever/RSS-Master) - 针对RSS源的自定义过滤、筛选，使用AI总结、概括、打分等
-
-*   [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
-
-*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
-
-*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
-
-*   [6drf21e/ChatTTS\_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
-
-*   [wdmpa/content-farm-list](https://github.com/wdmpa/content-farm-list) - List of content farm sites like g.penzai.com.
-
-*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-## Astro
-
-*   [dogxii/astro-doge](https://github.com/dogxii/astro-doge) - 一个简洁、加载快速的 Astro 博客主题，适合内容为主的个人技术博客，内置暗色模式、响应式布局。
-
-*   [ladit/astro-blog-zozo](https://github.com/ladit/astro-blog-zozo) - An opinionated and neat blog template built with Astro.
-
-*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## PowerShell
 
